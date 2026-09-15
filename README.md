@@ -1,6 +1,6 @@
-# 🚀 [Your Project Title Here]
+# 🚀 [careearsignal]
 
-> ⚠️ **Replace everything in `[ ]` brackets with your actual content before submission.**
+
 
 ---
 
@@ -8,9 +8,9 @@
 
 | Field | Value |
 |---|---|
-| **Team Name** | [Your Team Name] |
+| **Team Name** | [careearsignal] |
 | **Track** | [AI / DevOps / Sustainability / Open] |
-| **Team Lead** | [Name] — [email@ibm.com] |
+| **Team Lead** | damini] — 26dce@charuusaaat] |
 | **Members** | [Name 1], [Name 2], [Name 3] |
 
 ---
